@@ -1,0 +1,2 @@
+# student-information-management-system
+本项目为2020年华南理工大学计算机科学与工程学院高级语言程序设计课程设计
